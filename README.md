@@ -1,5 +1,6 @@
 ### Hi there I'm Manjiri Sawant 👋
 ### I'm currently learning Power Bi :astonished:
+### I'm currently working on Project Based Internship @ AINE.AI
 <!--
 **ManjiriSDS/ManjiriSDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
