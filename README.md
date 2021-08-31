@@ -1,5 +1,5 @@
 ### Hi there I'm Manjiri Sawant 👋
-- 🔭 I’m currently working on Buyer's Demographic Analysis
+- 🔭 I’m currently working on Sales Analysis
 - 🌱 I’m currently learning Power Bi
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Power Bi
