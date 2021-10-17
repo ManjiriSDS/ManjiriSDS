@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with flask
 - 💬 Ask me about Data Analytics and Visualization
-- 📫 How to reach me: ...
+
 
 
