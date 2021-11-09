@@ -2,7 +2,7 @@
   <img width="300" height="300" src=https://c.tenor.com/dXvsEin6u0wAAAAC/apple-learning.gif>
 </p>
 
-<h1 align = "left"> Hello there I'm Manjiri :wave: </h1> 
+<h1 align = "left"> Hello there I'm Manjiri 	:apple: :wave: </h1> 
 
 
 About me :<br/>
