@@ -13,7 +13,7 @@ About me :<br/>
 - 💬 Ask me about Data Analytics and Visualization
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjiriSDS&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjiriSDS&count_private=true)(https://github.com/ManjiriSDS/github-readme-stats)
 
 
 Credits: [Manjiri Sawant](https://github.com/ManjiriSDS)
