@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello there I'm Manjiri </h1> 
+<h1 align = "center"> Hello there I'm Manjiri :woman_office_worker: :wave: </h1> 
 
 - 🔭 I’m currently working on **
 - 🌱 I’m currently learning Power Bi
