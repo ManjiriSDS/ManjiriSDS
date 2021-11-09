@@ -2,7 +2,7 @@
 
 
 **About me** :<br/>
-- 🔭 I’m currently working on **
+-:triangular_flag_on_post:	A Data Analyst Aspirant
 - 🌱 I’m currently learning Power Bi
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with flask
