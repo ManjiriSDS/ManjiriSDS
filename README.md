@@ -12,6 +12,10 @@ About me :<br/>
 - 🤔 I’m looking for help with flask
 - 💬 Ask me about Data Analytics and Visualization
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjiriSDS&count_private=true)  
+
+
 Credits: [Manjiri Sawant](https://github.com/ManjiriSDS)
 
 Last Edited on: 09/11/2021
