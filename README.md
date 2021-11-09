@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="300" height="200" src=https://i.pinimg.com/originals/a1/6a/0e/a16a0e55df6839e26ce6e887064f2bd1.gif>
+  <img width="300" height="300" src=https://c.tenor.com/dXvsEin6u0wAAAAC/apple-learning.gif>
 </p>
 
-<h1 align = "left"> Hello there I'm Manjiri :woman_office_worker: :wave: </h1> 
+<h1 align = "left"> Hello there I'm Manjiri :wave: </h1> 
 
 
 About me :<br/>
