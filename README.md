@@ -2,8 +2,6 @@
   <img width="300" height="300" src=https://c.tenor.com/dXvsEin6u0wAAAAC/apple-learning.gif>
 </p>
 
-<h1 :apple: :wave: </h1> 
-
 
 <img src= width="30px">&nbsp;***Talking about Personal Stuffs...***
 - :triangular_flag_on_post:	**A Data Analyst Aspirant** <br/>
