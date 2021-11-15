@@ -2,7 +2,7 @@
   <img width="300" height="300" src=https://c.tenor.com/dXvsEin6u0wAAAAC/apple-learning.gif>
 </p>
 
-<h1 align = "left"> Hello there I'm Manjiri <img src = https://www.crushpixel.com/big-static15/preview4/apple-character-on-white-background-2099461.jpg height = "30px" width = "60px">&nbsp; :wave: </h1> 
+<h1 :apple: :wave: </h1> 
 
 
 <img src= width="30px">&nbsp;***Talking about Personal Stuffs...***
