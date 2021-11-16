@@ -1,9 +1,6 @@
-<p align="center">
-  <img width="300" height="300" src=https://c.tenor.com/dXvsEin6u0wAAAAC/apple-learning.gif>
-</p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<img src= width="30px">&nbsp;***Talking about Personal Stuffs...***
 - :triangular_flag_on_post:	**A Data Analyst Aspirant** <br/>
 - 🌱 I’m currently learning Power Bi
 - 👯 I’m looking to collaborate on Github
