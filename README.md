@@ -13,7 +13,7 @@
 
 
 
-<hr>
+
 
 <p align="center">
   <img src= "https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" height="300"/>
@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjiriSDS&layout=compact" alt="ovi"/></p>
 <br><br><br><br><br>
 
-<hr>
+
 
 
 
