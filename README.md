@@ -1,9 +1,8 @@
-# Hi There, I'm Manjiri <img src= "https://i.pinimg.com/originals/d1/cc/b0/d1ccb027cb74358f8c5b5eff0d9c087d.gif" width="80px">
-
+# Hi There, I'm Manjiri <img src= "https://i.pinimg.com/originals/d1/cc/b0/d1ccb027cb74358f8c5b5eff0d9c087d.gif" width="90px">
 
 
 - :triangular_flag_on_post:	**A Data Analyst Aspirant** <br/>
-- 🌱 I’m currently learning Power Bi
+- 🌱 I’m currently working on AINE AI projects
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with flask
 - 💬 Ask me about Data Analytics and Visualization
