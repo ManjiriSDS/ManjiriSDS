@@ -1,4 +1,4 @@
-# Hi There, I'm Manjiri <img src= https://i.pinimg.com/originals/d1/cc/b0/d1ccb027cb74358f8c5b5eff0d9c087d.gif width="70px">
+# Hi There, I'm Manjiri <img src= "https://i.pinimg.com/originals/d1/cc/b0/d1ccb027cb74358f8c5b5eff0d9c087d.gif" width="80px">
 
 
 
