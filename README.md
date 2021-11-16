@@ -7,6 +7,9 @@
 - 🤔 I’m looking for help with flask
 - 💬 Ask me about Data Analytics and Visualization
 
+<img src = "https://i.gifer.com/fetch/w300-preview/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width = "100px" >
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjiriSDS&hide=contribs,prs&count_private=True&show_icons=True&theme=radical)
 
