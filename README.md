@@ -14,8 +14,6 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 - **Machine Learning:** Scikit-Learn 🤖
 
 
-
-
 <hr>
 
 <p align="center">
@@ -24,20 +22,6 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 <br>
 
 <hr>
-
-
-
-## 🛠️ Tools and Languages
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-- </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-
-
-Credits: [Manjiri Sawant](https://github.com/ManjiriSDS)
 
 
 
