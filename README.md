@@ -4,14 +4,14 @@
 
 ![bg](https://github.com/ManjiriSDS/General/blob/8339ffb64fda9c002c83422a29494776c7f28729/profile.jpg)
 
-I'm Data-driven problem solver with expertise in Python, Excel, Power BI, Tableau, Microsoft SQL, and Machine Learning. I love turning raw data into actionable insights and visualizations.
+I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power BI**, **Tableau**, **Microsoft SQL**, and **Machine Learning**. I love turning raw data into actionable insights and visualizations.
 
+## 🛠️ My Skillset
 
-- :triangular_flag_on_post:	**A Data Analyst Aspirant** <br/>
-- 🌱 I’m currently working on data science projects
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Data Analytics and Visualization
-
+- **Programming Languages:** Python 🐍, SQL 🗃️
+- **Data Visualization:** Power BI 📊, Tableau 📈, Matplotlib 📉, Seaborn 📈
+- **Data Analysis:** Excel 📑, Pandas 🐼, NumPy 🔢, Matplotlib 📉 
+- **Machine Learning:** Scikit-Learn 🤖
 
 
 
