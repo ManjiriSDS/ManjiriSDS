@@ -1,7 +1,7 @@
 
 # Hi There, I'm Manjiri <img src= "https://i.pinimg.com/originals/d1/cc/b0/d1ccb027cb74358f8c5b5eff0d9c087d.gif" width="90px">
 
-![bg](profile.jpg)
+![bg](https://github.com/ManjiriSDS/General/blob/8339ffb64fda9c002c83422a29494776c7f28729/profile.jpg)
 
 - :triangular_flag_on_post:	**A Data Analyst Aspirant** <br/>
 - 🌱 I’m currently working on data science projects
