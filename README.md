@@ -37,13 +37,6 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-fcee70?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/blossome568)](https://www.kaggle.com/blossome568)
 
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manjiri-sawant-3893b757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjiri-sawant-3893b757/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/blossome568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/blossome568" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/manjiris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manjiris/" height="30" width="40" /></a>
-</p>
-
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManjiriSDS&theme=dark&hide_border=false)<br/>
