@@ -21,6 +21,8 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 ## 📊 My Projects 
 
+<img align="right" alt="GIF" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif"  height="150" width ="160"/>
+
 ### 1. **Project Name 1**
    - Description: Brief description of your project.
    - Tools: Python, Pandas, Power BI
