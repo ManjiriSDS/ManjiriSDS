@@ -51,7 +51,6 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out.  
 
 <img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> <!-- Replace with your image link -->
