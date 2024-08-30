@@ -25,7 +25,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 ### 1. **Hotel Reservation Analysis With SQL**
    - Analyze hotel reservation data to extract meaningful insights and trends.
-   - Tools: Python,SQL
+   - Tools: Python, SQL
    - [View Repository](https://github.com/ManjiriSDS/Mentorness-Internship-Project/tree/main/Hotel%20Reservation%20Analysis%20With%20SQL)
 
 ### 2. **YouTube Songs Analsis With Power BI**
