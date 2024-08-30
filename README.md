@@ -35,7 +35,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManjiriSDS&theme=dark&hide_border=false)<br/>
 
@@ -44,27 +44,14 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hi 👋, I'm Manjiri</h1>
-<h3 align="center">A passionate Data Analyst aspirant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjirisds&label=Profile%20views&color=0e75b6&style=flat" alt="manjirisds" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjiri-sawant-3893b757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjiri-sawant-3893b757/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/blossome568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/blossome568" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/manjiris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manjiris/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjirisds&show_icons=true&locale=en" alt="manjirisds" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjirisds&" alt="manjirisds" /></p>
-
-
-  
 
 ## 📊 My Projects
 
@@ -80,14 +67,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 ![Project Work](https://example.com/project_work_image.png) <!-- Replace with your image link -->
 
-## 🚀 My Learning Journey
 
-I'm constantly learning and growing as a data analyst. My current focus is on enhancing my machine learning skills and working on real-world projects to gain deeper insights.
-
-- **Current Learning:** Deep Learning, Advanced SQL
-- **Certifications:** [Certification Name](https://linktocertificate.com)
-
-![Learning Path](https://example.com/learning_path_image.png) <!-- Replace with your image link -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjirisds&label=Profile%20views&color=0e75b6&style=flat" alt="manjirisds" /> </p>
 
@@ -99,5 +79,5 @@ I'm constantly learning and growing as a data analyst. My current focus is on en
 
 Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out.
 
-![Thank You](https://example.com/thank_you_image.png) <!-- Replace with your image link -->
+![Thank You]() <!-- Replace with your image link -->
 
