@@ -23,15 +23,15 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 <img align="right" alt="GIF" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif"  height="150" width ="160"/>
 
-### 1. **Project Name 1**
-   - Description: Brief description of your project.
-   - Tools: Python, Pandas, Power BI
-   - [View Repository](https://github.com/your-username/project-1)
+### 1. **Hotel Reservation Analysis With SQL**
+   - Analyze hotel reservation data to extract meaningful insights and trends.
+   - Tools: Python,SQL
+   - [View Repository](https://github.com/ManjiriSDS/Mentorness-Internship-Project/tree/main/Hotel%20Reservation%20Analysis%20With%20SQL)
 
-### 2. **Project Name 2**
-   - Description: Brief description of your project.
-   - Tools: SQL, Tableau
-   - [View Repository](https://github.com/your-username/project-2) 
+### 2. **YouTube Songs Analsis With Power BI**
+   - Description: Visualize and analyze song data using Power BI.
+   - Tools: Power BI
+   - [View Repository](https://github.com/ManjiriSDS/Mentorness-Internship-Project/tree/main/YouTube%20Song%20Analysis%20With%20Power%20BI) 
 
 ## 🌐 Connect Me:
 
