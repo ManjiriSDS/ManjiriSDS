@@ -16,10 +16,10 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 
 ## 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-## 📊 My Projects 
+## 📊 Recent Projects 
 
 <img align="right" alt="GIF" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif"  height="150" width ="160"/>
 
@@ -39,15 +39,14 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-fcee70?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/blossome568)](https://www.kaggle.com/blossome568)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/manjiris/)](https://leetcode.com/u/manjiris/)
 
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManjiriSDS&theme=dark&hide_border=false)<br/>
-
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manjirisds&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out.  
 
-<img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> <!-- Replace with your image link -->
+<img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> 
+
+[![](https://visitcount.itsvg.in/api?id=manjirisds&icon=5&color=0)](https://visitcount.itsvg.in)
 
