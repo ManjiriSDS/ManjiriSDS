@@ -34,7 +34,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 ## 🌐 Connect Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-manjiris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjiri-sawant-3893b757/)](https://www.linkedin.com/in/manjiri-sawant-3893b757/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-lightblue?style=flat&logo=Kaggle&logoColor=#475cba&link=https://www.kaggle.com/blossome568)](https://www.kaggle.com/blossome568)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-fcee70?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/blossome568)](https://www.kaggle.com/blossome568)
 
 
 <p align="left">
