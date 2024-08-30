@@ -35,6 +35,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 [![Linkedin Badge](https://img.shields.io/badge/-manjiris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjiri-sawant-3893b757/)](https://www.linkedin.com/in/manjiri-sawant-3893b757/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-fcee70?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/blossome568)](https://www.kaggle.com/blossome568)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/manjiris/]https://leetcode.com/u/manjiris/)
 
 
 ## 📊 GitHub Stats:
