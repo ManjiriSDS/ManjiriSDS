@@ -33,7 +33,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 ## 🌐 Connect Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-manjiris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/manjiri-sawant-3893b757/)](https:/https://www.linkedin.com/in/manjiri-sawant-3893b757/)
+[![Linkedin Badge](https://img.shields.io/badge/-manjiris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/manjiri-sawant-3893b757)](https:/https://www.linkedin.com/in/manjiri-sawant-3893b757)
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjiri-sawant-3893b757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjiri-sawant-3893b757/" height="30" width="40" /></a>
