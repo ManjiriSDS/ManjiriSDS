@@ -50,12 +50,10 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-<h5 align = "left" > Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out. <img src= "https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" height="30" width ="40"/> </p> </h5> 
-
+Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out.  
 
 <img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> <!-- Replace with your image link -->
 
 
-
+<img src= "https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" height="30" width ="40"/>
 
