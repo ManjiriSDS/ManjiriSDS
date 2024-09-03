@@ -2,7 +2,7 @@
 
 <h3 align="center"> A Passionate Data Analyst Aspirant 💻 </h3> 
 
-![bg](profile.jpg)
+![bg](general/profile.jpg)
 
 I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power BI**, **Tableau**, **Microsoft SQL**, and **Machine Learning**. I love turning raw data into actionable insights and visualizations. I'm constantly learning and growing as a data analyst. My current focus is on enhancing my skills and working on real-world projects to gain deeper insights.
 
@@ -48,5 +48,5 @@ Thank you for visiting my profile! If you're interested in collaborating or have
 
 <img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> 
 
-[![](https://visitcount.itsvg.in/api?id=manjirisds&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](general/giphy.gif)
 
