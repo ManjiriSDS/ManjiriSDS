@@ -48,5 +48,8 @@ Thank you for visiting my profile! If you're interested in collaborating or have
 
 <img src= "general/giphy.gif" width="200px"> 
 
-[![](general/giphy.gif)
+
+[![](https://visitcount.itsvg.in/api?id=manjirisds&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
