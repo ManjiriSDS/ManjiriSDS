@@ -46,7 +46,7 @@ I'm Data-driven problem solver with expertise in **Python**, **Excel**, **Power 
 
 Thank you for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out.  
 
-<img src= "https://github.com/ManjiriSDS/General/blob/92405a7fabe10570b5497a30606ddc95305be815/giphy.gif" width="200px"> 
+<img src= "general/giphy.gif" width="200px"> 
 
 [![](general/giphy.gif)
 
